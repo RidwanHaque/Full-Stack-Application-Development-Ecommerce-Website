@@ -4,7 +4,7 @@ Of course. Here is the provided text formatted for a GitHub README file.
 
 ## Executive Summary
 
-This project outline details a full-stack ecommerce platform specializing in 3D assets and Python scripts for Blender, designed to provide Georgia Tech computer engineering students with enterprise-level development experience. The platform targets 3D artists, animators, game developers, filmmakers, engineers, and product designers, incorporating cutting-edge technologies including interactive 3D viewing, AI-powered customer support, and secure payment processing. With a 39-week development timeline and strategic technology choices, this project will deliver exceptional resume value for internship applications while providing hands-on experience with industry-standard tools and practices.
+This project outline details a full-stack ecommerce platform specializing in 3D assets and Python scripts for Blender and showcases enterprise-level development experience. The platform targets 3D artists, animators, game developers, filmmakers, engineers, and product designers, incorporating cutting-edge technologies including interactive 3D viewing, AI-powered customer support, and secure payment processing. With a 39-week development timeline and strategic technology choices, this project will provide hands-on experience with industry-standard tools and practices.
 
 ## Technology Stack Recommendations
 
