@@ -1,6 +1,6 @@
 Of course. Here is the provided text formatted for a GitHub README file.
 
-# 3D Asset Ecommerce Platform: Comprehensive Project Outline for Computer Engineering Students
+# 3D Asset Ecommerce Platform: Comprehensive Project Outline
 
 ## Executive Summary
 
